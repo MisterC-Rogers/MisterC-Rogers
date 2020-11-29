@@ -6,10 +6,10 @@
 ## I'm a Husband, Father, Developer, Militry Veteran and Felon!!
 
 - 🔭 I just started planning a person project
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently trying to learn everything 🤣
 - 👯 I’m looking to collaborate with other developers on projects
 - 🥅 2020 Goals: Learn Ruby and Ruby on Rails
-- ⚡ Fun fact: I love to play video games and D&D
+- ⚡ Fun fact: I love to play video games, and owned an entertainment company making music
 
 ### Spotify Playing 🎧
 
