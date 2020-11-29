@@ -1,4 +1,4 @@
-### Hello there, I'm Charles Rogers- aka [mister-rogers][website] 👋
+### Hello there, I'm Charles Rogers- aka [Charlie Rogers][website] 👋
 
 [![Website](https://img.shields.io/website?label=mister-rogers.com&style=for-the-badge&url=https%3A%2F%2Fmister-rogers.com)](https://mister-rogers.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MisterCRogers?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMisterCRogers&screen_name=MisterCRogers)
