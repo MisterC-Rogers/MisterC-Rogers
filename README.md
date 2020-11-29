@@ -11,6 +11,12 @@
 - 🥅 2020 Goals: Learn Ruby and Ruby on Rails
 - ⚡ Fun fact: I love to play video games, and owned an entertainment company making music
 
+### Goals
+
+- Become better at whiteboarding
+- Learn Ruby and Ruby on Rails
+- Finish plans of my person pet project
+
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4fk58h2wceird8ffcx2u11ym0&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
