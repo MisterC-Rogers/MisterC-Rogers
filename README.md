@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=mister-rogers.com&style=for-the-badge&url=https%3A%2F%2Fmister-rogers.com)](https://mister-rogers.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MisterCRogers?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMisterCRogers&screen_name=MisterCRogers)
 
-## I'm a Husband, Father, Developer, Militry Veteran and Felon!!
+## I'm a Husband, Father, Developer, Military Veteran and Felon!!
 
 - 🔭 I just started planning a person project
 - 🌱 I’m currently trying to learn everything 🤣
