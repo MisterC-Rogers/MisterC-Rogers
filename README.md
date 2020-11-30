@@ -54,12 +54,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="MisterC-Rogers' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MisterC-Rogers&show_icons=true&hide_border=true&theme=merko" />
-
-</details>
+ <img align="left" alt="MisterC-Rogers' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MisterC-Rogers&show_icons=true&hide_border=true&theme=merko" />
 
 [website]: https://mister-rogers.com
 [twitter]: https://twitter.com/MisterCRogers
