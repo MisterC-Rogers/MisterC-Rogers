@@ -5,17 +5,19 @@
 
 ## I'm a Husband, Father, Developer, Military Veteran and Felon!!
 
-- 🔭 I just started planning a person project
+- 🔭 I just started planning a personal project
 - 🌱 I’m currently trying to learn everything 🤣
 - 👯 I’m looking to collaborate with other developers on projects
-- 🥅 2020 Goals: Learn Ruby and Ruby on Rails
+- 🥅 2020 Goal: Get a front-end web developer job ('I am actively looking and open to learning new tech for a job')
 - ⚡ Fun fact: I love to play video games, and owned an entertainment company making music
 
 ### Goals
 
 - Become better at whiteboarding
 - Learn Ruby and Ruby on Rails
-- Finish plans of my person pet project
+- Finish plans of my personal pet project
+- Become better at Shopify development
+- Start Blogging/Vlogging or posting more to social media
 
 ### Spotify Playing 🎧
 
