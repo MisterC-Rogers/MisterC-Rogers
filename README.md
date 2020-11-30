@@ -62,7 +62,7 @@
 </details>
  
 <details>
-  <summary>:zap: Certification</summary>
+  <summary>:zap: Certifications</summary>
   <a href=lambdaAclaim target='_blank'>
     <img algin='left' alt='Lambda School' width='50px' src='https://images.youracclaim.com/size/340x340/images/866c4132-ed2f-44f5-83df-86bf2ae639d9/lambda-badge-full-stack-web.png' />
   </a>
