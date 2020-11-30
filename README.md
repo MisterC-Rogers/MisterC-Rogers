@@ -63,10 +63,10 @@
  
 <details>
   <summary>:zap: Certifications</summary>
-  <a href=lambdaAclaim target='_blank'>
+  <a href='https://www.youracclaim.com/badges/a91f07fd-9f30-4386-80ab-006dbe79ae4c' target='_blank'>
     <img algin='left' alt='Lambda School' width='100px' src='https://images.youracclaim.com/size/340x340/images/866c4132-ed2f-44f5-83df-86bf2ae639d9/lambda-badge-full-stack-web.png' />
   </a>
-  <a href=awsAcclaim target='_blank'>
+  <a href='https://www.youracclaim.com/badges/65515f87-7926-4fca-a845-983c1ba8fd75' target='_blank'>
     <img algin='left' alt='Lambda School' width='100px' src='https://images.youracclaim.com/size/340x340/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png' />
   </a>
 
@@ -75,5 +75,4 @@
 [website]: https://mister-rogers.com
 [twitter]: https://twitter.com/MisterCRogers
 [linkedin]: https://linkedin.com/in/mister-rogers
-[lambdaAcclaim]: https://www.youracclaim.com/badges/a91f07fd-9f30-4386-80ab-006dbe79ae4c
-[awsAcclaim]: https://www.youracclaim.com/badges/65515f87-7926-4fca-a845-983c1ba8fd75
+
