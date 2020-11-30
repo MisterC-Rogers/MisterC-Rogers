@@ -54,8 +54,13 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterC-Rogers&hide=html,css&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterC-Rogers&hide=html,css&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   <img align="left" alt="MisterC-Rogers' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MisterC-Rogers&show_icons=true&hide_border=true&theme=merko" />
+
+</details>
+  
 [website]: https://mister-rogers.com
 [twitter]: https://twitter.com/MisterCRogers
 [linkedin]: https://linkedin.com/in/mister-rogers
