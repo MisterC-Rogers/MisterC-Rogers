@@ -18,9 +18,9 @@
 - Become better at Shopify development
 - Start Blogging/Vlogging or posting more to social media
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4fk58h2wceird8ffcx2u11ym0&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4fk58h2wceird8ffcx2u11ym0&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) -->
 
 <br />
 
