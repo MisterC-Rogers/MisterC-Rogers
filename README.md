@@ -1,22 +1,19 @@
 ### Hello there, I'm Charles Rogers- aka [Charlie Rogers][website] 👋
 
-[![Website](https://img.shields.io/website?label=mister-rogers.com&style=for-the-badge&url=https%3A%2F%2Fmister-rogers.com)](https://mister-rogers.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/MisterCRogers?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMisterCRogers&screen_name=MisterCRogers)
-
 ## I'm a Husband, Father, Developer, and Military Veteran!!
 
 - 🔭 I just started planning a personal project
 - 🌱 I’m currently trying to learn everything 🤣
 - 👯 I’m looking to collaborate with other developers on projects
-- 🥅 2021 Goal: Get a front-end web developer job ('I am actively looking and open to learning new tech for a job')
+- 🥅 2024 Goal: Get a front-end web developer job ('I am actively looking and open to learning new tech for a job')
 - ⚡ Fun fact: I love to play video games, and owned an entertainment company making music
 
 ### Goals
 
 - Become better at whiteboarding
-- Finish plans of my personal pet project
+- Finish plans for my pet project
 - Become better at Shopify development
-- Start Blogging/Vlogging or posting more to social media
+- Start Blogging/Vlogging or posting more on social media
 
 <!-- ### Spotify Playing 🎧
 
@@ -26,8 +23,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mister-rogers.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -71,7 +66,5 @@
 
 </details>
 
-[website]: https://mister-rogers.com
-[twitter]: https://twitter.com/MisterCRogers
 [linkedin]: https://linkedin.com/in/mister-rogers
 
